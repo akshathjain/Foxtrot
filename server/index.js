@@ -9,7 +9,11 @@ const app = express();
 
 // The HelloWorld
 app.get("/", (req, res) => {
-    res.send("Hello from Node.js!");
+    var obj = {
+        "doorOpen":true,
+    }
+
+    res.send(obj);
 });
 
 const port = process.env.PORT || 3000;
