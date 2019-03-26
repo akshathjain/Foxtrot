@@ -21,7 +21,7 @@ The hard part with this was getting everything to work together. Since, I didn't
 
 ### What I learned
 - NGINX
-- Node
+- Node.js
 - Designing RESTful APIs
 - Raspberry Pi
 - Basic Circuitry
