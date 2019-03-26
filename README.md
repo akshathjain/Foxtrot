@@ -1,5 +1,5 @@
 # Foxtrot
-##### A simple application designed to ensure your front door is closed.
+##### An IoT device designed to ensure that your front door is closed.
 
 ### Inspiration
 Sometimes I leave my room in a hurry and forget to completely close my door. With many of my prized possessions inside, I would like to know if my door has closed properly when I've left.
