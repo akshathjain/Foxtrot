@@ -7,7 +7,7 @@ Purpose: define the server index
 const express = require("express");
 const app = express();
 
-// The HelloWorld
+//tells whether or not the door is open
 app.get("/", (req, res) => {
     //randomly assign whether door is opened or closed
     var isOpen = Math.floor((Math.random() * 2)) == 0;
