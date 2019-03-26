@@ -1,5 +1,5 @@
 # Foxtrot
-##### An IoT device designed to ensure that your front door is closed. (Submitted to [HackberryPi 2019](https://devpost.com/software/big-brother-02vaz8#updates))
+##### An IoT device designed to ensure that your front door is closed. (Submitted to [Hackberry Pi 2019](https://devpost.com/software/big-brother-02vaz8#updates))
 
 
 ### Inspiration
