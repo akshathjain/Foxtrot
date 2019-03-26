@@ -9,8 +9,10 @@ const app = express();
 
 // The HelloWorld
 app.get("/", (req, res) => {
+    //randomly assign whether door is opened or closed
+    var isOpen = Math.floor((Math.random() * 2)) == 0;
     var obj = {
-        "doorOpen":true,
+        "doorOpen": isOpen,
     }
 
     res.send(obj);
