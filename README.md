@@ -1,4 +1,4 @@
-#Foxtrot
+# Foxtrot
 ##### A simple application designed to ensure your front door is closed.
 
 ### Inspiration
